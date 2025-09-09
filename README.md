@@ -2,7 +2,7 @@
 
 **PyQuarks** is a compact, modular collection of Python algorithms built for general-purpose data manipulation. Whether you're sorting, searching, transforming, or analyzing, PyQuarks provides a clear and reliable foundation for working with data.
 
-This project is a curated library of reusable logic—organized for clarity, built for simplicity. While currently focused on core algorithmic tools, the long-term goal is to evolve PyQuarks into a lightweight framework for structured data workflows.
+This project is a curated library of reusable logic, organized for clarity, built for simplicity. While currently focused on core algorithmic tools, the long-term goal is to evolve PyQuarks into a lightweight framework for structured data workflows.
 
 ## Features
 
